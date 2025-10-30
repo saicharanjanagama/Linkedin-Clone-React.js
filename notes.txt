@@ -1,0 +1,5 @@
+1 - install styled components
+2 - install react router dom
+
+after building both login and home page
+3 - install react redux
