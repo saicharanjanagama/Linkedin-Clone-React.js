@@ -19,7 +19,7 @@
 
 📸 **Preview:**
 <p align="center">
-  <img src="linkedin-clone-preview.png" width="700" alt="LinkedIn Clone Preview"/>
+  <img src="Linkedin-Clone.png" width="700" alt="LinkedIn Clone Preview"/>
 </p>
 
 ---
@@ -68,8 +68,8 @@ It focuses on **modern UI design**, **real-time updates**, and **smooth user exp
 
 **Clone the Repository**
 ```bash
-git clone https://github.com/saicharanjanagama/linkedin-clone.git
-cd linkedin-clone
+git clone https://github.com/saicharanjanagama/Linkedin-Clone-Reactjs.git
+cd linkedin-clone-Reactjs
 ```
 
 **🧩 Install Dependencies**
